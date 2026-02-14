@@ -21,6 +21,3 @@ and regional and urban–rural disparities.
 - Identified long-term decline in the school population
 - Highlighted regional and urban–rural disparities
 - Provided visual tools to support educational planning and policy decisions
-
-## Preview
-![Power BI Dashboard](Dashboard.png)
