@@ -23,4 +23,4 @@ and regional and urban–rural disparities.
 - Provided visual tools to support educational planning and policy decisions
 
 ## Preview
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Dashboard.png)
